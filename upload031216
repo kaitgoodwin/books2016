@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kait Reads 2016</title>
+
+<style type="text/css">
+h1 {
+    font-family: 'Cabin', sans-serif;
+}
+h2 {
+    text-align:center;
+    color: cornflowerblue;
+    font-family:'Open Sans', sans-serif;
+}
+
+.nav {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.february {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.march {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+img {
+    height: 6.5em;
+    width: 5em;
+}
+
+table, td {
+    border: 1.5px solid cornflowerblue;
+    text-align: center;
+    border-radius: 6px;
+    padding: 3px;
+}
+
+html {
+    background-color: #FDF8EF;
+}
+
+.button {
+    border: 1px solid cornflowerblue;
+    width: 135px;
+    height: 45px;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 4px;
+    text-decoration: none;
+    background-color: #fff7f7;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    color: cornflowerblue;
+}
+
+.buttonone {
+    border: 1px solid cornflowerblue;
+    width: 225px;
+    height: 45px;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 4px;
+    text-decoration: none;
+    background-color: #fff7f7;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    color: cornflowerblue;
+}
+
+.buttontwo {
+    border: 1px solid cornflowerblue;
+    width: 190px;
+    height: 45px;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 4px;
+    text-decoration: none;
+    background-color: #fff7f7;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    color: cornflowerblue;
+}
+
+.buttonthree {
+    border: 1px solid cornflowerblue;
+    width: 115px;
+    height: 45px;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 4px;
+    text-decoration: none;
+    background-color: #fff7f7;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    color: cornflowerblue;
+}
+
+.buttonfour {
+    border: 1px solid cornflowerblue;
+    width: 95px;
+    height: 45px;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 4px;
+    text-decoration: none;
+    background-color: #fff7f7;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    color: cornflowerblue;
+}
+
+.buttonfive {
+    border: 1px solid cornflowerblue;
+    width: 150px;
+    height: 45px;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 4px;
+    text-decoration: none;
+    background-color: #fff7f7;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    color: cornflowerblue;
+}
+
+th {
+    font-size: 18px;
+    font-family: 'Cabin', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+a: visited {
+    text-decoration: none;
+    color: #ed6495;
+}
+
+a: hover {
+    text-decoration: none;
+    color: #64daed;
+}
+
+p {
+    font-family: 'Cabin', sans-serif;
+}
+</style>
+
+        <link rel="stylesheet" href="stylesheet001.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Lato|Slabo+27px|Oswald|Roboto+Condensed|Montserrat|Source+Sans+Pro|Lora|Raleway|PT+Sans|Droid+Sans|Open+Sans+Condensed:300|Ubuntu|Roboto+Slab|Droid+Serif|Arimo|Fjalla+One|PT+Sans+Narrow|Merriweather|Noto+Sans|Alegreya+Sans|PT+Serif|Titillium+Web|Passion+One|Poiret+One|Candal|Indie+Flower|Playfair+Display|Bitter|Dosis|Yanone+Kaffeesatz|Cabin|Oxygen|Arvo|Inconsolata|Nunito|Lobster|Anton|Noto+Serif|Hind|Bree+Serif|Abel|Muli|Ubuntu+Condensed|Josefin+Sans|Crimson+Text|Exo+2|Libre+Baskerville|Pacifico|Fira+Sans'
+        rel='stylesheet' type='text/css'>
+        <title>2016 Books</title>
+
+        <body>
+            <div class="nav">
+                 <h1>Books Read in 2016</h1>
+                 <h2>January Titles</h2>
+                <div class="button">
+                    <a href="https://www.goodreads.com/book/show/13580951-united-we-spy" target="_blank">
+                        <p><em>United We Spy</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="button">
+                    <a href="https://www.goodreads.com/book/show/22571275-all-fall-down" target="_blank">
+                        <p><em>All Fall Down</em>
+                        </p>
+                    </a>
+                </div>
+                <div class="button">
+                    <a href="https://www.goodreads.com/book/show/24644814-see-how-they-run" target="_blank">
+                        <p><em>See How They Run</em>
+                        </p>
+                    </a>
+                </div>
+                <div class="buttontwo">
+                    <a href="https://www.goodreads.com/book/show/20877332-a-thousand-pieces-of-you" target="_blank">
+                        <p><em>A Thousand Pieces of You</em>
+                        </p>
+                    </a>
+                </div>
+                <br>
+                <div class="buttonone">
+                    <a href="https://www.goodreads.com/book/show/17234659-ten-thousand-skies-above-you" target="_blank">
+                        <p><em>Ten Thousand Skies Above You</em>
+                        </p>
+                    </a>
+                </div>
+                <div class="buttonthree">
+                    <a href="https://www.goodreads.com/book/show/23923099-lauren-ipsum" target="_blank">
+                        <p><em>Lauren Ipsum</em>
+                        </p>
+                    </a>
+                </div>
+                <div class="buttontwo">
+                    <a href="https://www.goodreads.com/book/show/17155938-origins" target="_blank">
+                        <p><em>Mila 2.0 Origins: The Fire</em>
+                        </p>
+                    </a>
+                </div>
+                <div class="buttonfour">
+                    <a href="https://www.goodreads.com/book/show/17697594-mila-2-0" target="_blank">
+                        <p><em>Mila 2.0</em>
+                        </p>
+                    </a>
+                </div>
+                <br>
+                <br>
+                <table align="center">
+                    <thead colspan="3px">
+                        <th colspan="11px">
+                            <div class="th">+ Covers</th>
+                        </div>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <img src="http://ecx.images-amazon.com/images/I/51vB7eWHWqL._SY344_BO1,204,203,200_.jpg">
+                                </td>
+                                <td>
+                                    <img src="https://vivalabooks.files.wordpress.com/2015/06/allfalldown-cvr.jpg">
+                                </td>
+                                <td>
+                                    <img src="http://justinemagazine.com/wp-content/uploads/2016/01/see-how-they-run-ally-carter.jpg">
+                                </td>
+                                <td>
+                                    <img src="http://ecx.images-amazon.com/images/I/51nI-qDVM9L._SX329_BO1,204,203,200_.jpg">
+                                </td>
+                                <td>
+                                    <img src="https://usathea.files.wordpress.com/2015/11/ttsau.jpg?w=300&h=454">
+                                </td>
+                                <td>
+                                    <img src="http://ecx.images-amazon.com/images/I/91hQ9xLp9WL.jpg">
+                                </td>
+                                <td>
+                                    <img src="http://d.gr-assets.com/books/1351585321l/16118288.jpg">
+                                </td>
+                                <td>
+                                    <img src="http://ecx.images-amazon.com/images/I/51gPnIoZ3nL._SX331_BO1,204,203,200_.jpg">
+                                </td>
+                            </tr>
+                </table>
+                <br>
+            </div>
+            <div class="february">
+                 <h2>February Titles</h2>
+                <div class="buttonfive">
+                    <a href="https://www.goodreads.com/book/show/20633154-renegade" target="_blank">
+                        <p><em>Mila 2.0: Renegade</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="buttonfour">
+                    <a href="https://www.goodreads.com/book/show/18108877-timebound" target="_blank">
+                        <p><em>Timebound</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="buttonfour">
+                    <a href="https://www.goodreads.com/book/show/22009372-time-s-echo" target="_blank">
+                        <p><em>Time's Echo</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="buttonfour">
+                    <a href="https://www.goodreads.com/book/show/22066090-time-s-edge" target="_blank">
+                        <p><em>Time's Edge</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="button">
+                    <a href="https://www.goodreads.com/book/show/25810884-time-s-mirror" target="_blank">
+                        <p><em>Time's Mirror</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="button">
+                    <a href="https://www.goodreads.com/book/show/22583196-time-s-divide" target="_blank">
+                        <p><em>Time's Divide</em>
+                    </a>
+                    </p>
+                </div>
+                <br>
+                <br>
+                <table align="center">
+                    <thead colspan="3px">
+                        <div class="th">
+                            <th colspan="8px">+ Covers</th>
+                        </div>
+                        <tr>
+                            <td>
+                                <img src="http://d.gr-assets.com/books/1379085546l/10222365.jpg">
+                            </td>
+                            <td>
+                                <img src="http://ecx.images-amazon.com/images/I/51oZtmNY2LL._SX331_BO1,204,203,200_.jpg">
+                            </td>
+                            <td>
+                                <img src="http://ecx.images-amazon.com/images/I/51zaXUDypNL._SX331_BO1,204,203,200_.jpg">
+                            </td>
+                            <td>
+                                <img src="http://ecx.images-amazon.com/images/I/51gi6xLW0rL._AC_UL320_SR214,320_.jpg">
+                            </td>
+                            <td>
+                                <img src="http://ecx.images-amazon.com/images/I/51wFtzX4M9L._SX311_BO1,204,203,200_.jpg">
+                            </td>
+                            <td>
+                                <img src="http://ecx.images-amazon.com/images/I/51tvhEOPqwL._SX331_BO1,204,203,200_.jpg">
+                            </td>
+                        </tr>
+                </table>
+            </div>
+            <div class="march">
+                 <h2>March Titles</h2>
+                <div class="buttonfour">
+                    <a href="https://www.goodreads.com/book/show/23621681-magonia" target="_blank">
+                        <p><em>Magonia</em>
+                        </p>
+                    </a>
+                </div>
+                <div class="buttontwo">
+                    <a href="https://www.goodreads.com/book/show/28668273-the-crown-and-the-arrow" target="_blank">
+                        <p><em>The Crown and The Arrow</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="buttonfour">
+                    <a href="https://www.goodreads.com/book/show/28163469-simon-says" target="_blank">
+                        <p><em>Simon Says</em>
+                    </a>
+                    </p>
+                </div>
+                <br>
+                <div class="button">
+                    <a href="https://www.goodreads.com/book/show/17331483-no-place-like-oz" target="_blank">
+                        <p><em>No Place Like Oz</em>
+                    </a>
+                    </p>
+                </div>
+                <div class="buttonfive">
+                    <a href="https://www.goodreads.com/book/show/22028519-the-witch-must-burn" target="_blank">
+                        <p><em>The Witch Must Burn</em>
+                    </a>
+                    </p>
+                </div>
+                <br>
+                <br>
+                <table align="center">
+                    <thead>
+                        <th colspan="6px">
+                            <div class="th">+ Covers</th>
+                        </div>
+                        <tr>
+                            <td>
+                                <img src="http://d.gr-assets.com/books/1413479866l/21393526.jpg">
+                            </td>
+                            <td>
+                                <img src="http://d.gr-assets.com/books/1454320320l/28574935.jpg">
+                            </td>
+                            <td>
+                                <img src="http://ecx.images-amazon.com/images/I/51i0lQ-ludL._SX312_BO1,204,203,200_.jpg">
+                            </td>
+                            <td>
+                                <img src="http://www.harpercollins.com/harperimages/isbn/large/3/9780062280763.jpg">
+                            </td>
+                            <td>
+                                <img src="http://d.gr-assets.com/books/1408926741l/20827345.jpg">
+                            </td>
+                        </tr>
+                        </tbody>
+                </table>
+            </div>
+    </head>
+    </body>
+
+</html>
